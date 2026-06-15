@@ -28,6 +28,6 @@ I'm a Master's student in Computer Science building hands-on experience across c
 
 <b>Top Repositories</b>
 
-<p>This project asks a focused question: how well do modern pretrained vision models transfer to Cell Painting compound-bioactivity prediction, compared with a task-specific supervised baseline? We faithfully reproduce the supervised ResNet-50 pipeline of Fredin Haslum et al. (2024), then benchmark three pretrained models drawn from three distinct learning paradigms against it, on an identical data split and evaluation protocol.</p>
+<p>Benchmarking pretrained vision models (DINOv2, ConvNeXt, BiomedCLIP) against a supervised ResNet-50 baseline for Cell Painting bioactivity prediction.</p>
 
 <div width="100%" align="center"><a href="https://github.com/Robi97-singh/bioactive" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Robi97-singh&repo=bioactive&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
